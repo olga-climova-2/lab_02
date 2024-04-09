@@ -1,0 +1,16 @@
+@import "./bootstrap/css/bootstrap.css";
+@import "./bootstrap-icons/bootstrap-icons.css";
+
+.title {
+    font-size: large;
+}
+
+.selected {
+    background-color: #7DCEA0;
+}
+
+.list-item {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin: 0;
+}
